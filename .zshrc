@@ -15,8 +15,6 @@ export EDITOR="vim"
 
 alias ls=ls --color=auto
 
-export PATH=/usr/local/bin:/usr/local/sbin:$PATH
-
 # Theme
 prompt bart 
 
